@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craftify.AutodeskAuthenticationToolkit", "src\Craftify.AutodeskAuthenticationToolkit\Craftify.AutodeskAuthenticationToolkit.csproj", "{05974484-D326-43E9-B4A8-C576C67AD945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craftify.AutodeskAuthenticationToolkit.MicrosoftDependencyInjection", "src\Craftify.AutodeskAuthenticationToolkit.MicrosoftDependencyInjection\Craftify.AutodeskAuthenticationToolkit.MicrosoftDependencyInjection.csproj", "{90E05ABD-EE7F-4939-B30C-948A1E550DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05974484-D326-43E9-B4A8-C576C67AD945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05974484-D326-43E9-B4A8-C576C67AD945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05974484-D326-43E9-B4A8-C576C67AD945}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{05974484-D326-43E9-B4A8-C576C67AD945}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{90E05ABD-EE7F-4939-B30C-948A1E550DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E05ABD-EE7F-4939-B30C-948A1E550DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E05ABD-EE7F-4939-B30C-948A1E550DC8}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{90E05ABD-EE7F-4939-B30C-948A1E550DC8}.Debug|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
